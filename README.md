@@ -1,3 +1,3 @@
 # Hello-World
-Just a test
+Just a test.
 It is a strat
